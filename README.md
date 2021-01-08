@@ -7,3 +7,6 @@ npm init --yes
 ui5 init
 manifest.json copied from tutorial project
 ui5 use sapui5@latest
+
+# Hello UI5
+ui5 serve
