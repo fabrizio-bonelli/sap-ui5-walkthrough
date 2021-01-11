@@ -3,7 +3,7 @@ sap.ui.define([
 ], function(Controller) {
     'use strict';
 
-    return Controller.extend("ss",{
+    return Controller.extend("sap.ui.demo.walkthrough.controller.App",{
         onShowHello : function () {
             // show a native JavaScript alert
             alert("Hello UI5! (from event handler)")
