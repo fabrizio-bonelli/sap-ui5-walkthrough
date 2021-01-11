@@ -1,0 +1,7 @@
+<mvc:View
+   controllerName="sap.ui.demo.walkthrough.controller.WacomStatus"
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">
+   <Text text="{/status}"/>
+   <Button text="Capture" press=".onCapture"/>
+</mvc:View>
